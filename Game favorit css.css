@@ -1,0 +1,35 @@
+body{
+  background-color: lightcyan
+}
+.Bar{
+  background-color: blue;
+  padding: 5px 10px 0 10px;
+  border-radius: 20px
+}
+
+h2{
+  text-align: center;
+  background-color: midnightblue;
+  color: white;
+  border-radius: 300px;
+  box-shadow: 0 0 4px black;
+}
+.Menarik {
+  background-color: midnightblue;
+  color: white;
+  border-radius: 150px;
+  padding: 0 15px 0 10px;
+}
+.sinopsis{
+  background-color: midnightblue;
+  color: white;
+  border-radius: 150px;
+  padding: 0 15px 0 10px;
+}
+
+h3{
+  background-color: midnightblue;
+  color: white;
+  border-radius: 10px;
+  padding: 0 10px 0 15px;
+}
